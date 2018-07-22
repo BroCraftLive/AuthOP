@@ -1,0 +1,8 @@
+#The prefix for the plugin messages
+Prefix: '&e&lAO &7|'
+
+#The players allowed to use this command
+Players:
+- 'Player1'
+- 'Player2'
+- 'Player3'

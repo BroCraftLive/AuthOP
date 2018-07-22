@@ -1,0 +1,9 @@
+name: AuthOP
+version: ${project.version}
+main: net.brocraftlive.authop.AuthOP
+authors: [lewis2470]
+description: Re-ops configured users if they are not OP.
+commands:
+  authop:
+    description: Gives operator permissions to players in the config.
+    usage: /authop
